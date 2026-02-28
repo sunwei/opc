@@ -1,12 +1,11 @@
 ---
-title: 首页
+title: Dan Koe
 weight: 1
 ---
 
 # 一人企业模式核心关联脑图
 
-
-![阅读指南](sites/books/一人公司/content/map.svg)
+![[../../images/map.svg]]
 
 
 ### I. 核心哲学与愿景（第 1, 3, 4, 17, 25 章）

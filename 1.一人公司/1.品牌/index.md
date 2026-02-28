@@ -1,6 +1,9 @@
 ---
-title: 品牌 - 你是谁
-tags: [品牌, 定位, 价值主张]
+title: 1.品牌 - 你是谁
+tags:
+  - 品牌
+  - 定位
+  - 价值主张
 date: 2026-02-28
 ---
 
@@ -136,9 +139,9 @@ graph LR
 ## 🔗 相关资源
 
 ### 理论基础
-- [[../2.内容/DK/视频笔记/9|Dan Koe - 最赚钱的细分市场就是你]]
-- [[../2.内容/DK/视频笔记/12|Dan Koe - 真实内容创作]]
-- [[../2.内容/DK/purpose-profit/01-introduction|Purpose & Profit - 引言]]
+- [[9|Dan Koe - 最赚钱的细分市场就是你]]
+- [[12|Dan Koe - 真实内容创作]]
+- [[01-introduction|Purpose & Profit - 引言]]
 
 ### 其他模块
 - [[../2.内容/index|内容模块]] - 学习如何传播你的品牌

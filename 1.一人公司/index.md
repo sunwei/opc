@@ -158,8 +158,8 @@ timeline
 ## 📚 相关资源
 
 ### 理论基础
-- [[2.内容/DK/视频笔记/_index|Dan Koe 视频笔记合集]] - 33个视频的完整总结
-- [[2.内容/DK/purpose-profit/_index|Purpose & Profit 笔记]] - 深度理论学习
+- [[1.一人公司/5.大家/Dan Koe/视频笔记/_index|Dan Koe 视频笔记合集]] - 33个视频的完整总结
+- [[1.一人公司/5.大家/Dan Koe/purpose-profit/_index|Purpose & Profit 笔记]] - 深度理论学习
 
 ### 实战案例
 - [[MDFriday开发历程]] - 从想法到产品
